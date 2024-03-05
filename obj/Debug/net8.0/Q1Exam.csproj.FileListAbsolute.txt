@@ -1,0 +1,15 @@
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/bin/Debug/net8.0/Q1Exam
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/bin/Debug/net8.0/Q1Exam.deps.json
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/bin/Debug/net8.0/Q1Exam.runtimeconfig.json
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/bin/Debug/net8.0/Q1Exam.dll
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/bin/Debug/net8.0/Q1Exam.pdb
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.AssemblyInfoInputs.cache
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.AssemblyInfo.cs
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.csproj.CoreCompileInputs.cache
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.sourcelink.json
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.dll
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/refint/Q1Exam.dll
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.pdb
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/Q1Exam.genruntimeconfig.cache
+/Users/gevhakobyan/Downloads/GeekBrains/I четверть/Q1Exam/obj/Debug/net8.0/ref/Q1Exam.dll
